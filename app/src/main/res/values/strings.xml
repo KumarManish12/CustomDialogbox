@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Custom Dialogbox</string>
+    <string name="Custom_Dialog">Custom Dialog</string>
+    <string name="ok">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="Enteryourname">Enter Your Name</string>
+</resources>
